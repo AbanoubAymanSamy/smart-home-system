@@ -10,9 +10,11 @@ Comprehensive Device Management: Includes control of:
 Door access control (servo motor)
 Air conditioner (based on ambient temperature)
 Temperature-Based Automation: The system automatically adjusts the air conditioning based on real-time ambient temperature, using a temperature sensor to maintain optimal comfort.
+
 **Security:**
 User Login: Only authenticated users can control the system, with an admin having the ability to override control.
 Password Protected Access: Multiple users can log in with different credentials for the keypad system and the remote system.
+
 **Application Use Cases:**
 Ideal for transforming a traditional home into a smart home with minimal effort.
 Perfect for scenarios where energy efficiency and remote accessibility are priorities.
